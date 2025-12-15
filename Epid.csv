@@ -1,27 +1,27 @@
-RDHS,Dengue Fever
-Colombo,104
-Gampaha,63
-Kalutara,40
-Kandy,94
-Matale,11
-Nuwara Eliya,5
-Galle,37
-Hambantota,18
-Matara,26
-Jaffna,12
-Kilinochchi,0
-Mannar,2
-Vavuniya,0
-Mullaitivu,1
-Batticaloa,9
-Ampara,3
-Trincomalee,4
-Kurunegala,24
-Puttalam,9
-Anuradhapura,9
-Polonnaruwa,2
-Badulla,18
-Monaragala,16
-Ratnapura,60
-Kegalle,27
-SRILANKA,598
+RDHS,Dengue Fever,lat,lon
+Colombo,104,6.9271,79.8612
+Gampaha,63,7.0917,79.9947
+Kalutara,40,6.5854,79.9607
+Kandy,94,7.2906,80.6337
+Matale,11,7.4696,80.6211
+Nuwara Eliya,5,6.9497,80.7891
+Galle,37,6.0535,80.221
+Hambantota,18,6.124,81.1185
+Matara,26,5.9485,80.5353
+Jaffna,12,9.6615,80.0255
+Kilinochchi,0,9.3961,80.3982
+Mannar,2,8.981,79.9044
+Vavuniya,0,8.7514,80.4971
+Mullaitivu,1,9.2671,80.8142
+Batticaloa,9,7.717,81.7
+Ampara,3,7.2912,81.6724
+Trincomalee,4,8.5874,81.2152
+Kurunegala,24,7.4863,80.3623
+Puttalam,9,8.0408,79.8428
+Anuradhapura,9,8.3114,80.4037
+Polonnaruwa,2,7.9403,81.0188
+Badulla,18,6.9934,81.055
+Monaragala,16,,
+Ratnapura,60,6.6828,80.399
+Kegalle,27,7.2513,80.3464
+SRILANKA,598,,
