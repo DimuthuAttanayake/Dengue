@@ -42,12 +42,14 @@ This map uses data from [Ministry of Health, Sri Lanka](https://www.epid.gov.lk/
 
 ## What more would I like to do?
 
-* To weigh the dengue numbers for each district by population stats in this link:https://www.statistics.gov.lk/Resource/en/Population/Vital_Statistics/Mid-year_population_by_district_and_sex_2025.pdf, before creating the map.
+* To weigh the dengue numbers for each district by population stats in this link:[Mid-year Population by District and Sex](https://www.statistics.gov.lk/Resource/en/Population/Vital_Statistics/Mid-year_population_by_district_and_sex_2025.pdf)
+, before creating the map.
 * To find out how many cases make it an outbreak and make this appear red on the map
 
 
 
 ## Contact
 
-Dimuthu Attanayake, [dca2140@columbia.edu]
+Dimuthu Attanayake, [dca@columbia.edu](mailto:dca@columbia.edu)
+
 
